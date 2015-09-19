@@ -1,0 +1,31 @@
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.exe
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.pdb
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.xml
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ResolveAssemblyReference.cache
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.Resources.resources
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.vbproj.GenerateResource.Cache
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.exe
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.xml
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.pdb
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.exe.manifest
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.application
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.TrustInfo.xml
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.exe.manifest
+E:\ITB\LTI\OOP\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.application
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.exe
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.xml
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.pdb
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.exe.manifest
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.application
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.exe
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.pdb
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\bin\Debug\ServerSocketProgram.xml
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ResolveAssemblyReference.cache
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.Resources.resources
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.vbproj.GenerateResource.Cache
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.TrustInfo.xml
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.exe.manifest
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.application
+E:\Kuliah di ITB\visual .NET\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.exe
+E:\Kuliah di ITB\visual .NET\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.xml
+E:\Kuliah di ITB\visual .NET\Tugas Socket Programming\ServerSocketProgram\ServerSocketProgram\obj\Debug\ServerSocketProgram.pdb
