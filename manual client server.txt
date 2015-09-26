@@ -1,0 +1,14 @@
+1. Program Client Server
+2. merupakan update dari mini chat 1.0.1 
+2. Program Revisi 1.0.2
+3. Sudah dapat berkirim pesan, file dan meminta message 1. dan 2. 
+4. ditambah dengan brodcast ke beberapa client
+5. untuk menjalankan aplikasi "minichat"
+6. pergunakan aplikasi server pada folder:server/bin/debug/server
+7. masukkan PORT anda
+8. pergunakan aplikasi client pada folder:client/bin/debug/client
+9. masukkan IP server dan PORT yang sama dengan server
+10. selamat berkirim pesan dan file dengan socket programming
+11. Program socket menggunakan VB.NET dengan devexpress
+
+---Selamat berchatting---  

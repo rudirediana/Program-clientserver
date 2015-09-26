@@ -45,10 +45,11 @@ Public Class Form1
             infiniteCounter = 1
             serverStream = clientSocket.GetStream()
 
-            'Dim buffSize As Integer
+            Dim buffSize As Long
             Dim inStream(10024) As Byte
-            'buffSize = clientSocket.ReceiveBufferSize
-            serverStream.Read(inStream, 0, CInt(clientSocket.ReceiveBufferSize)) '(buffSize))
+            buffSize = clientSocket.ReceiveBufferSize
+            serverStream.Read(inStream, 0, CLng(buffSize))
+            'serverStream.Read(inStream, 0, CInt(clientSocket.ReceiveBufferSize)) '(buffSize))
             Dim returndata As String = _
             System.Text.Encoding.ASCII.GetString(inStream)
             readData = "" + returndata

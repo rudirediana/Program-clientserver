@@ -111,9 +111,10 @@ Module Module1
                     Dim networkStream As NetworkStream = clientSocket.GetStream()
 
                     Dim bytefrom(10024) As Byte
+                    'networkStream.Read(bytesFrom, 0, CLng(clientSocket.ReceiveBufferSize))
                     networkStream.Read(bytesFrom, 0, CInt(clientSocket.ReceiveBufferSize))
                     dataFromClient = System.Text.Encoding.ASCII.GetString(bytesFrom)
-                    dataFromClient = dataFromClient.Substring(0, 10) 'dataFromClient.IndexOf("$"))
+                    dataFromClient = dataFromClient.Substring(0, 500) 'dataFromClient.IndexOf("$"))
                     msg("From client - " + clNo + " : " + dataFromClient)
                     rCount = Convert.ToString(requestCount)
 
