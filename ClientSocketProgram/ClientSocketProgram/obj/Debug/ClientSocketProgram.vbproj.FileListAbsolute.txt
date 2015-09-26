@@ -1,0 +1,35 @@
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.exe.manifest
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.application
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.exe
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.pdb
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.xml
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ResolveAssemblyReference.cache
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.Form1.resources
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.Resources.resources
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.vbproj.GenerateResource.Cache
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.exe.licenses
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.TrustInfo.xml
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.exe.manifest
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.application
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.exe
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.xml
+E:\ITB\LTI\OOP\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.pdb
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.exe
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.xml
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.pdb
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.exe.manifest
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.application
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.exe
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.pdb
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\bin\Debug\ClientSocketProgram.xml
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ResolveAssemblyReference.cache
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.Form1.resources
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.Resources.resources
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.vbproj.GenerateResource.Cache
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.exe.licenses
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.TrustInfo.xml
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.exe.manifest
+E:\Kuliah di ITB\Kuliah LTI 2015\koding\anthony\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.application
+E:\Kuliah di ITB\visual .NET\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.exe
+E:\Kuliah di ITB\visual .NET\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.xml
+E:\Kuliah di ITB\visual .NET\Tugas Socket Programming\ClientSocketProgram\ClientSocketProgram\obj\Debug\ClientSocketProgram.pdb
