@@ -1,0 +1,5 @@
+Ini file a.txt 
+
+Hai 
+ini rudi rediana
+dengan isi file a.txt

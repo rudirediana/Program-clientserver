@@ -1,0 +1,4 @@
+Ini file b.txt 
+
+Hai ini rudi rediana
+dengan isi file b.txt

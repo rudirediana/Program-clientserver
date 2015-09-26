@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="server">
+</Property><Property Name="Solution File" Value="E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\server.sln">
+</Property><Property Name="User Options File" Value="E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\server.suo">
+</Property><Property Name="Date" Value="23 September 2015">
+</Property><Property Name="Time" Value="13:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="server.sln" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\server.sln">
+</Event><Event ErrorLevel="0" Project="" Source="server.suo" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\server.suo">
+</Event><Event ErrorLevel="0" Project="server" Source="server.vbproj" Description="Project file successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\server.vbproj">
+</Event><Event ErrorLevel="0" Project="server" Source="Module1.vb" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="server" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="server" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="server" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="server" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="server" Source="My Project\Application.myapp" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="server" Source="My Project\Settings.settings" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="server" Source="My Project\Resources.resx" Description="File successfully backed up as E:\Kuliah di ITB\visual .NET\minichat\chat_server\server\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="server" Source="server.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="server" Source="server.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="server.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="server.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="server" Source="server.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
