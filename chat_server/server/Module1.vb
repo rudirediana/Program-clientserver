@@ -97,7 +97,7 @@ Module Module1
         Private Sub doChat()
             'Dim infiniteCounter As Integer
             Dim requestCount As Integer
-            Dim bytesFrom(10024) As Byte
+            'Dim bytesFrom(10024) As Byte
             Dim dataFromClient As String
             'Dim sendBytes As [Byte]()
             'Dim serverResponse As String
@@ -110,28 +110,30 @@ Module Module1
                     requestCount = requestCount + 1
                     Dim networkStream As NetworkStream = clientSocket.GetStream()
 
-                    Dim bytefrom(10024) As Byte
+                    Dim bytesFrom(10024) As Byte
                     'networkStream.Read(bytesFrom, 0, CLng(clientSocket.ReceiveBufferSize))
                     networkStream.Read(bytesFrom, 0, CInt(clientSocket.ReceiveBufferSize))
                     dataFromClient = System.Text.Encoding.ASCII.GetString(bytesFrom)
-                    dataFromClient = dataFromClient.Substring(0, 500) 'dataFromClient.IndexOf("$"))
+                    dataFromClient = dataFromClient.Substring(0, 100) 'dataFromClient.IndexOf("$"))
                     msg("From client - " + clNo + " : " + dataFromClient)
                     rCount = Convert.ToString(requestCount)
 
                     broadcast(dataFromClient, clNo, True)
                     'meminta isi file 
-                    If dataFromClient = "file" Then
-
+                    'If dataFromClient = "file" Then
+                    If (bytesFrom(0) = 48) And (bytesFrom(1) = 0) Then
                         Dim sendBytes As [Byte]() = IO.File.ReadAllBytes("oop.txt")
                         networkStream.Write(sendBytes, 0, sendBytes.Length)
                         networkStream.Flush()
 
-                    ElseIf dataFromClient = "1" Then
+                        'ElseIf dataFromClient = "1" Then
+                    ElseIf bytesFrom(0) = 49 And bytesFrom(1) = 0 Then
                         Dim sendBytes As [Byte]() = IO.File.ReadAllBytes("a.txt")
                         networkStream.Write(sendBytes, 0, sendBytes.Length)
                         networkStream.Flush()
 
-                    ElseIf dataFromClient = "2" Then
+                        'ElseIf dataFromClient = "2" Then
+                    ElseIf bytesFrom(0) = 50 And bytesFrom(1) = 0 Then
                         Dim sendBytes As [Byte]() = IO.File.ReadAllBytes("b.txt")
                         networkStream.Write(sendBytes, 0, sendBytes.Length)
                         networkStream.Flush()

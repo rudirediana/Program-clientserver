@@ -9,3 +9,6 @@ E:\Kuliah di ITB\visual .NET\minichat\chat_client\client\obj\Debug\client.exe
 E:\Kuliah di ITB\visual .NET\minichat\chat_client\client\obj\Debug\client.xml
 E:\Kuliah di ITB\visual .NET\minichat\chat_client\client\obj\Debug\client.pdb
 E:\Kuliah di ITB\visual .NET\minichat\chat_client\client\obj\Debug\client.exe.licenses
+E:\Kuliah di ITB\Pemprograman\visual .NET\minichat\chat_client\client\obj\Debug\client.exe
+E:\Kuliah di ITB\Pemprograman\visual .NET\minichat\chat_client\client\obj\Debug\client.xml
+E:\Kuliah di ITB\Pemprograman\visual .NET\minichat\chat_client\client\obj\Debug\client.pdb

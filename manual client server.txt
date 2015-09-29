@@ -1,7 +1,7 @@
 1. Program Client Server
-2. merupakan update dari mini chat 1.0.1 
-2. Program Revisi 1.0.2
-3. Sudah dapat berkirim pesan, file dan meminta message 1. dan 2. 
+2. merupakan update dari mini chat 1.0.2 
+2. Program Revisi 1.0.3
+3. Sudah dapat berkirim pesan, file dan meminta message 0, 1. dan 2. 
 4. ditambah dengan brodcast ke beberapa client
 5. untuk menjalankan aplikasi "minichat"
 6. pergunakan aplikasi server pada folder:server/bin/debug/server
